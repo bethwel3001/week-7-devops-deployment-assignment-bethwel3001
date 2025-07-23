@@ -6,8 +6,14 @@ const morgan = require('morgan');
 
 const app = express();
 
+//CORS Configuration: allow only Netlify origin
+app.use(cors({
+  origin: ['https://magenta-scone-b7c525.netlify.app'], 
+  methods: ['GET', 'POST', 'DELETE', 'PUT'],
+  credentials: true
+}));
+
 // Middleware
-app.use(cors());
 app.use(express.json());
 app.use(morgan('dev'));
 
