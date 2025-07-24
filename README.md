@@ -30,13 +30,13 @@ A professional, full-stack note-taking app built with the MERN stack. Styled wit
 
 **Frontend Deployment Success**
 
-![Frontend CI/CD](.frontend/images/deploy.png)
-![Frontend CI/CD success](.frontend/images/image.png)
+![Frontend CI/CD](frontend/images/deploy.png)
+![Frontend CI/CD success](frontend/images/image.png)
 
 **Backend Deployment Success**
 
-![Backend CI/CD](.backend/images/deploy.png)
-![Backend CI/CD](.backend/images/image.png)
+![Backend CI/CD](backend/images/deploy.png)
+![Backend CI/CD](backend/images/image.png)
 
 ---
 
