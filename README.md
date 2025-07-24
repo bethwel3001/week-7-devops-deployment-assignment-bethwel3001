@@ -79,6 +79,6 @@ npm install
 npm start
 ```
 ### 🧠 Author
-Your Name
-Student at PLP Academy.
-GitHub: @bethwel3001
+- Bethwel Kiplagat
+- Student at PLP Academy.
+- GitHub: @bethwel3001
